@@ -1,10 +1,10 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# A história do chá no Brasil
 
 ## 🚀 Introdução
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, é a Carla aqui! Inspirado pela aula de IA da DIO escolhi fazer um ebook sobre chá, produto pelo qual fiquei mais apaixonada (amo desde criança) e busquei aprender mais sobre ele depois que visitei a África do Sul.
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -25,7 +25,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ## 📒 Descrição
 Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
+## 🤖 História do chá no Brasil
 Liste as IAs Generativas e outras ferramentas usadas
 
 ## 🧐 Processo de Criação
